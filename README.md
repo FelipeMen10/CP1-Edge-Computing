@@ -1,9 +1,11 @@
 RMs: 556319; 557571 Nomes: Felipe Marques de Oliveira; Felipe Men dos Santos
 
 Projeto:
+
 Este projeto será utilizado para medir a intensidade da luz de um armazem de uma vinícola, já que os vinhos precisar ter uma certa quantidade suva de luz para que não comecem a ter reações químicas indesejadas.
 
 Como replicar o projeto:
+
 Conectar o Sensor LDR (Light Dependent Resistor):
 
 Conecte uma perna do LDR ao pino analógico A0 do Arduino.
