@@ -26,6 +26,10 @@ Conectar a Alimentação:
 Conecte o pino 5V do Arduino à linha de alimentação positiva dos LEDs e da buzina, por meio de um resistor adequado para limitar a corrente (se necessário).
 Conecte o pino GND (terra) do Arduino à linha de alimentação negativa dos LEDs, da buzina e ao terminal do sensor LDR.
 
+Link do vídeo explicativo do funcionamento do projeto:
+
+https://www.youtube.com/watch?v=YJiCkREUxpk
+
 Componentes Utilizados:
 
 ![image](https://github.com/FelipeMen10/CP1-Edge-Computing/assets/153327403/19006f8d-55b2-457d-a2a3-7b97bf655fbb)
