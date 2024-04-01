@@ -25,7 +25,9 @@ Conecte o pino 5V do Arduino à linha de alimentação positiva dos LEDs e da bu
 Conecte o pino GND (terra) do Arduino à linha de alimentação negativa dos LEDs, da buzina e ao terminal do sensor LDR.
 
 Componentes Utilizados:
+
 ![image](https://github.com/FelipeMen10/CP1-Edge-Computing/assets/153327403/19006f8d-55b2-457d-a2a3-7b97bf655fbb)
 
 Imagem simulada do projeto:
+
 ![image](https://github.com/FelipeMen10/CP1-Edge-Computing/assets/153327403/fc91e7d9-5c2e-4247-9d51-d1bc4b1e77df)
