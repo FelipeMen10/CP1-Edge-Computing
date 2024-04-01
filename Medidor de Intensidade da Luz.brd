@@ -376,17 +376,17 @@ design rules under a new name.
 <wire x1="147.1765" y1="6.33" x2="49.155" y2="113.9997" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="U1_GND">
-<contactref element="R2" pad="2"/>
 <contactref element="U1" pad="GND@0"/>
 <contactref element="U1" pad="GND@1"/>
 <contactref element="U1" pad="GND@2"/>
+<contactref element="R2" pad="2"/>
 <contactref element="PIEZO2" pad="2"/>
 <contactref element="D3" pad="2"/>
 <contactref element="D2" pad="2"/>
 <contactref element="D1" pad="2"/>
 <wire x1="50.425" y1="65.7397" x2="52.965" y2="65.7397" width="0" layer="19" extent="1-1"/>
 <wire x1="50.425" y1="65.7397" x2="36.455" y2="113.9997" width="0" layer="19" extent="1-1"/>
-<wire x1="149.7165" y1="49.0782" x2="52.965" y2="65.7397" width="0" layer="19" extent="1-1"/>
+<wire x1="52.965" y1="65.7397" x2="149.7165" y2="49.0782" width="0" layer="19" extent="1-1"/>
 <wire x1="149.7165" y1="49.0782" x2="159.8765" y2="62.52" width="0" layer="19" extent="1-1"/>
 <wire x1="149.7165" y1="49.0782" x2="159.8765" y2="29.19" width="0" layer="19" extent="1-1"/>
 <wire x1="159.8765" y1="19.03" x2="159.8765" y2="29.19" width="0" layer="19" extent="1-1"/>
